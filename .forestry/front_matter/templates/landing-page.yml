@@ -58,6 +58,17 @@ fields:
   type: text
   hidden: true
   default: home
+- type: blocks
+  name: this
+  label: this
+  template_types:
+  - posts
+- type: blocks
+  template_types:
+  - posts
+  label: test
+  name: test
+  description: test
 pages:
 - index.md
 - index.md
