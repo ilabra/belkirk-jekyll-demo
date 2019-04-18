@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/02/17/building3.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: zoomba
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -23,5 +23,9 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+this:
+- template: posts
+  layout: post
+test: []
 
 ---
